@@ -6,13 +6,19 @@ Once running, the script will keep checking for your stream to go live and post 
 
 Discord bot has 3 commands you can use.
 
+![Example1](https://imgur.com/gallery/8mMugvq)
+
+
 ### /show-subscriptions
 It shows you the list of broadcasters from whom you want to receive live broadcast notifications.
+![Example1](https://imgur.com/gallery/k7AQITd)
 
 ### /get-notification
 You can receive live stream notifications from any streamer you want by entering the input with this command.
+![Example2](https://imgur.com/a/txea4yh)
 
-### /show-subscriptions
+
+### /delete-notification
 You can stop receiving live stream notification from the user you previously wanted to receive notifications from by entering the input using this command.
+![Example3](https://imgur.com/gallery/txea4yh)
 
-![Example Registration](https://imgur.com/a/8mMugvq)
