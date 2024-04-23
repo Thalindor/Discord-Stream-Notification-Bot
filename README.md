@@ -15,4 +15,4 @@ You can receive live stream notifications from any streamer you want by entering
 ### /show-subscriptions
 You can stop receiving live stream notification from the user you previously wanted to receive notifications from by entering the input using this command.
 
-![Example Registration](https://i.imgur.com/ZKqJID9.png)
+![Example Registration](https://imgur.com/a/sLweqSr)
