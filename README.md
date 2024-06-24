@@ -15,7 +15,7 @@ It shows you the list of broadcasters from whom you want to receive live broadca
 
 ### /get-notification
 You can receive live stream notifications from any streamer you want by entering the input with this command.
-![Example2](https://imgur.com/a/txea4yh)
+![Example2](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/feec66b8-a59a-4cbd-ac85-04bc5dd32d62)
 
 
 ### /delete-notification
