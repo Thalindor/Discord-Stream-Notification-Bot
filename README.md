@@ -6,7 +6,7 @@ Once running, the script will keep checking for your stream to go live and post 
 
 Discord bot has 3 commands you can use.
 
-![Example1](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/a3201a0d-39f1-4f54-9728-82b4f3a65c81)
+![Example1](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/a40e206d-58f6-423d-9e42-9448c43efdca)
 
 
 ### /show-subscriptions
