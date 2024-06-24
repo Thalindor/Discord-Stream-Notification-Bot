@@ -20,6 +20,7 @@ You can receive live stream notifications from any streamer you want by entering
 
 ### /delete-notification
 You can stop receiving live stream notification from the user you previously wanted to receive notifications from by entering the input using this command.
+
 ![Example3](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/4c1ece9b-f09f-4619-9826-983f2ff6cabb)
 
 
