@@ -11,14 +11,15 @@ Discord bot has 3 commands you can use.
 
 ### /show-subscriptions
 It shows you the list of broadcasters from whom you want to receive live broadcast notifications.
-![Example1](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/aef16408-81ad-450f-aa0b-6a16b868b9d3)
+![Example1](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/bbcd2079-6073-4146-aa3e-ab0a6da2c915)
 
 ### /get-notification
 You can receive live stream notifications from any streamer you want by entering the input with this command.
-![Example2](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/feec66b8-a59a-4cbd-ac85-04bc5dd32d62)
+![Example2](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/4a084732-d624-4a7b-af65-382a4ee28948)
 
 
 ### /delete-notification
 You can stop receiving live stream notification from the user you previously wanted to receive notifications from by entering the input using this command.
-![Example3](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/a55bfcf2-aa22-48b6-a6d7-11ea5f35299b)
+![Example3](https://github.com/tynansylvester23999/Discord-Stream-Notification-Bot/assets/158298979/4c1ece9b-f09f-4619-9826-983f2ff6cabb)
+
 
